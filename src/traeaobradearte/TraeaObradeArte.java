@@ -1,0 +1,27 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package traeaobradearte;
+
+
+//import static com.sun.org.apache.xml.internal.serialize.LineSeparator.Windows;
+import javafx.application.Application;
+import Fractal.WindowsFractal;
+
+/**
+ *
+ * @author David
+ */
+public class TraeaObradeArte {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        Application.launch(WindowsFractal.class, args);
+    }
+    
+}
